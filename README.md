@@ -4,6 +4,9 @@ Repository of my SQL Queries and Projects while I learn and develop my data anal
 - Tableau Visualizations
 
 
+
+
+
 **Seattle AirBnb Data**
 - Dataset from Kaggle: URL: https://www.kaggle.com/datasets/airbnb/seattle?select=reviews.csv
 - Visualization focused on questions like:
