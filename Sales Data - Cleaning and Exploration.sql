@@ -1,7 +1,7 @@
 /* 
 Data Cleaning and Data Exploration Project Portfolio
 
-Skills used: ALTER, CREATE, RENAME, UNION, JOINS, CTE, Window Functions, Aggregate Functions, COnverting Data Types
+Skills used: ALTER, CREATE, RENAME, UNION, JOINS, CTE, Window Functions, Aggregate Functions, Converting Data Types
 
 */
 
