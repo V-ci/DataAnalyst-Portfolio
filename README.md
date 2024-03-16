@@ -8,6 +8,7 @@ Repository of my SQL Queries and Projects while I learn and develop my data anal
 
 
 **Seattle AirBnb Data**
+
 - Dataset from Kaggle: URL: https://www.kaggle.com/datasets/airbnb/seattle?select=reviews.csv
 - Visualization focused on questions like:
   i) Where to find a good AirBnb in Seattle in terms of price and location? 
