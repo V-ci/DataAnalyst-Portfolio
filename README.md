@@ -5,7 +5,15 @@ Repository of my SQL Queries and Projects while I learn and develop my data anal
 
 
 
+**COVID SQL Data Exploration Project**
+- Dataset from https://ourworldindata.org/covid-deaths
+- Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+- Looked at infection rates by countries and/or continents, death rates/likelihood of dying, highest death count by countries/continents, global numbers, percentage of vaccinated people by population.
 
+**Sales Data SQL Exploration and Cleaning Project**
+- Dataset from Kaggle: URL: https://www.kaggle.com/datasets/beekiran/sales-data-analysis/data
+- Skills used: ALTER, CREATE, RENAME, UNION, JOINS, CTE, Window Functions, Aggregate Functions, Converting Data Types
+- Looked at the usual KPIs. 
 
 **Seattle AirBnb Data**
 
