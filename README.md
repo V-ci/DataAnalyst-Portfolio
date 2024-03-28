@@ -27,4 +27,6 @@ Repository of my SQL Queries and Projects while I learn and develop my data anal
 
 **SQL PRACTICE**
 *DATA LEMUR* 
-https://datalemur.com/questions/sql-histogram-tweets | 
+[Histogram of Tweets]([url](https://datalemur.com/questions/sql-histogram-tweets))  | Solution(SQL-Practice/Data-Lemur/histogram-of-tweets.sql)
+
+
